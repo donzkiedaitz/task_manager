@@ -1,2 +1,2 @@
 # task_manager
-hello Im newbie
+I'm student
